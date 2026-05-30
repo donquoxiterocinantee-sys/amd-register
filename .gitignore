@@ -1,0 +1,6 @@
+config.json
+data/
+*.json
+*.txt
+*.log
+!config.example.json
